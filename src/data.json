@@ -1,0 +1,12 @@
+{
+    "Command": [
+        "g++ -o main main.cpp",
+        "print(\"Hello World!\");",
+        "sudo apt install neovim",
+        "ls",
+        "cd /etc",
+        "rm <file>",
+        "tar xf file.tar",
+        "ifconfig >> file.txt"
+    ]
+}

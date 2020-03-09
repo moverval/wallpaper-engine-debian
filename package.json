@@ -1,0 +1,19 @@
+{
+  "name": "cbp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "author": "mmnn321",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "rollup": "^2.0.2",
+    "rollup-plugin-terser": "^5.2.0",
+    "rollup-plugin-typescript2": "^0.26.0",
+    "typescript": "^3.8.3",
+    "webpack-cli": "^3.3.11"
+  }
+}

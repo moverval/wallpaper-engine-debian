@@ -1,0 +1,15 @@
+{
+    "contentating": "Everyone",
+    "description": "A self typing command bar with debain commands",
+    "file": "index.html",
+    "general": {
+        "properties": {
+            "background": {
+                "editable": true,
+                "type": "picture"
+            }
+        }
+    },
+    "title": "Debian Command Line",
+    "type": "web"
+}
